@@ -12,15 +12,23 @@ permissions:
 jobs:
   iso:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Checkout Freed data branch
-        uses: actions/checkout@v4
-        with:
-          ref: Freed
-          path: freed-data
+        run: |
+          for attempt in 1 2 3; do
+            rm -rf freed-data
+            if git clone --depth 1 --branch Freed \
+              "https://github.com/${GITHUB_REPOSITORY}.git" freed-data; then
+              break
+            fi
+            echo "Freed clone failed (attempt ${attempt}), retrying..."
+            sleep 5
+          done
+          test -d freed-data/data
 
       - name: Set up Python
         uses: actions/setup-python@v5
