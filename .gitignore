@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials*
+
+# Generated local copy / build artifacts
+site/
+data/
+build/
+dist/
+*.iso
+*.7z
+.freed-server.pid
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Reference material that is not part of the project
+example/

@@ -1,0 +1,7 @@
+[autorun]
+open=start.cmd
+label={{LABEL}}
+action=Open Honda Freed manual
+shell\open=Open Honda Freed manual
+shell\open\command=start.cmd
+shell=open
