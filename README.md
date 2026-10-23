@@ -151,6 +151,21 @@ export DEEPL_API_KEY='xxxxxxxx:fx'
 
 Лицензия — MIT, см. [LICENSE](LICENSE).
 
+Публикация:
+
+```bash
+git remote add origin git@github.com:<user>/<repo>.git
+git push -u origin main
+git push -u origin Freed
+```
+
+Ветка `Freed` содержит только `data/`, поэтому для локальной работы с ней удобно
+использовать отдельный worktree:
+
+```bash
+git worktree add ../freed-data Freed
+```
+
 ## Команды
 
 ```bash
