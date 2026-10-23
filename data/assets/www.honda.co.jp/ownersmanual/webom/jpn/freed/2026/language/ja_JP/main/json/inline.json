@@ -1,0 +1,200 @@
+{
+  "en-GB": {
+    "level": "root",
+    "nodes": [
+      {
+        "type": "img",
+        "content": "../img/warning-sign.png",
+        "id": "warning-sign",
+        "xmltype": "inlinegraphic"
+      },
+      {
+        "type": "img",
+        "content": "../img/danger-sign.png",
+        "id": "danger-sign",
+        "xmltype": "inlinegraphic"
+      },
+      {
+        "type": "sup",
+        "content": "✤",
+        "id": "✤",
+        "xmltype": "OptionSymbol"
+      },
+      {
+        "type": "img",
+        "content": "../img/caution-sign.png",
+        "id": "caution-sign",
+        "xmltype": "inlinegraphic"
+      },
+      {
+        "type": "span",
+        "content": "P",
+        "class": "frame",
+        "id": "P",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "D",
+        "class": "frame",
+        "id": "D",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "R",
+        "class": "frame",
+        "id": "R",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "AUTO",
+        "class": "frame",
+        "id": "AUTO",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "OFF",
+        "class": "frame",
+        "id": "OFF",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "N",
+        "class": "frame",
+        "id": "N",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "-",
+        "class": "frame",
+        "id": "-",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "+",
+        "class": "frame",
+        "id": "+",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "sup",
+        "content": "※2",
+        "id": "※2",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "※1",
+        "id": "※1",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "※3",
+        "id": "※3",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "※6",
+        "id": "※6",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "※5",
+        "id": "※5",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "※4",
+        "id": "※4",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "sup",
+        "content": "🄬",
+        "id": "supR",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "strong",
+        "content": "MIST",
+        "id": "MIST",
+        "xmltype": "font"
+      },
+      {
+        "type": "span",
+        "content": " - ",
+        "class": "frame",
+        "id": " - ",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "sup",
+        "content": "2",
+        "id": "2",
+        "xmltype": "superscript"
+      },
+      {
+        "type": "strong",
+        "content": "LO",
+        "id": "LO",
+        "xmltype": "font"
+      },
+      {
+        "type": "strong",
+        "content": "HI",
+        "id": "HI",
+        "xmltype": "font"
+      },
+      {
+        "type": "span",
+        "content": "MODE",
+        "class": "frame",
+        "id": "MODE",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "SET/−",
+        "class": "frame",
+        "id": "SET/−",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "RES/+",
+        "class": "frame",
+        "id": "RES/+",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "span",
+        "content": "CANCEL",
+        "class": "frame",
+        "id": "CANCEL",
+        "xmltype": "TextitemSymbol"
+      },
+      {
+        "type": "img",
+        "content": "../img/A-Mark.png",
+        "id": "A-Mark_list2",
+        "xmltype": "inlinegraphic"
+      },
+      {
+        "type": "img",
+        "content": "../img/Q-Mark.png",
+        "id": "Q-Mark",
+        "xmltype": "inlinegraphic"
+      }
+    ]
+  }
+}

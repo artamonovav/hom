@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/*==================================
+    テーブル td 縦の位置を真ん中にする
+==================================*/
+table.noLine td.middle,
+table.warning_list tr td.middle,
+table.line td.middle,
+.middle
+{
+    vertical-align:middle;
+}
+
+/*==================================
+    テーブル td 縦の位置をtopにする
+==================================*/
+
+.top{
+    vertical-align:top;
+}
+.center{
+    text-align:center;
+}
+
+/*==================================
+   左枠と右枠にわける
+==================================*/
+
+.rightArea{
+    float: right;
+    margin: 0 1%;
+    padding: 0;
+}
+.leftArea{
+    float: left;
+    margin: 0 1% ;
+    padding: 0;
+}
+.w45per{
+    width: 45%;
+}
+
+table.warning_list td div.icon_img{
+    overflow:hidden;
+}
+table.warning_list td div.icon_img img{
+    width:100%;
+}
+
+div.info_img img.per50{
+    max-width:50%;
+}
+
+
+
+/*
+    SP
+*/
+@media screen and (max-width:479px) {
+
+}
+
+

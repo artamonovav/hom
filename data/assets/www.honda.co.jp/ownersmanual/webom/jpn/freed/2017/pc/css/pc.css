@@ -1,0 +1,144 @@
+/* last update 2023.3.23 */
+
+/*==================================
+	top
+==================================*/
+body#top div.main{
+	padding: 0px 0 30px 0;
+}
+body#top dl.more #warning_list{
+	margin:0;
+}
+body#top dl.more #warning_list a{
+	background: none;
+	height:45px;
+}
+body#top #warning_list p.warning_list_tit{
+	display: none;
+}
+body#top #container div.inner img#car{
+	width:60%;
+}
+body#top div#fromVisual{
+	margin: 0 0 20px;
+	width:700px;
+	height:394px;
+}
+body#top div#caption{
+	text-align:left;
+	font-size: 13px;
+	margin:0 4% 0px auto;
+	color:#666;
+}
+body#top dl.more{
+	border:1px solid #aaa;
+	border-bottom:none;
+}
+body#top dl.more span.caption{
+	display: block;
+	background: none;
+	font-size:80%;
+	line-height: 130%;
+}
+body#top dl.more dt{
+	border-bottom:1px solid #aaa;
+	padding:10px 10px 10px 15px;
+}
+body#top dl.more dd.active{
+	border-bottom:1px solid #aaa;
+}
+body#top dl.more dt.active{
+	background-color: #fff;
+	border-bottom: none;
+}
+body#top dl.more dt:last-child{
+	border-bottom:none;
+}
+body#top dl.more dd ul.link{
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+	display: block;
+	margin:0 25px 10px 25px;
+}
+body#top dl.more dd ul.link li{
+	display: block;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	padding: 5px 10px;
+}
+body#top dl.more dd ul.link li a{
+	display: block;
+}
+
+
+/* 2023.3.23 overwrite */
+body#top dl.more{
+	border:0
+}
+body#top dl.more dt,
+body#top dl.more dd{
+	border-left:1px solid #aaa;
+	border-right:1px solid #aaa;
+}
+body#top dl.more dt:nth-child(1){
+	display:none;
+}
+body#top dl.more dd:nth-child(2){
+	display:block;
+	border-bottom: 1px solid #aaa;
+	padding:0 0 15px;
+	border-left:0;
+	border-right:0;
+}
+body#top div.appearanceNav {
+	margin-bottom:5px;
+	padding-top: 32px;
+}
+body#top div#fromVisual {
+margin-bottom:0;
+}
+/* add */
+body#top dl.more dd:nth-child(2),
+body#top div.appearanceNav,
+body#top div.appearanceNav ul,
+body#top div#fromVisual{
+	position:relative;
+}
+body#top div#fromVisual::after{
+	content: '';
+	display: inline-block;
+	width: 18px;
+	height: 21px;
+	background: url('../../images/common/click.png') no-repeat;
+	background-size: contain;
+	position: absolute;
+	left: 29.7%;
+	top: 359px;
+	z-index: 100;
+}
+body#top dl.more::before{
+	content: "画像をクリックしてビジュアルから探す";
+	font-weight: bold;
+	text-align: right;
+	display: inline-block;
+	background: rgba(255,255,255,0.9);
+	position: relative;
+	left: calc(50% - 161px);
+	top: -45px;
+	padding: 2px 20px 2px 37px;
+	border-radius: 16px;
+	border: 1px solid #c00;
+	font-size: 0.9em;
+	color: #c00;
+	width: 322px;
+	box-sizing: border-box;
+}
+body#top dl.more dd:nth-child(2):before{
+	content:"画像から探す：表示する画像を選択してください";
+	font-weight: bold;
+	display: block;
+	position: absolute;
+	z-index: 100;
+	left: 14px;
+	top:8px;
+}

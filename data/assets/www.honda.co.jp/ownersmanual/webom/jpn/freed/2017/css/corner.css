@@ -1,0 +1,315 @@
+@charset "utf-8";
+
+/*==================================
+    th border-bottom 追加
+==================================*/
+
+th#dFfe3c8ce89efc4f6894a8d145368d499f,
+th#dFf5d2c000851e4d08bfb5d975d75a3cef,
+th#dF9e4e5a493cd442b9ab0c0bb797293ab1,
+th#dF4ace4a55d9a044f6ac824938139aa6f6,
+th#dFe8644412e9fd4d3a8f22e2df5a2ecb54,
+th#dF49683a692c7e43bcbe37530f46f01616,
+th#dF1dcb0752c92c468aab99d851e7807282,
+th#dFb928276e26854d408563f222e9a3a921,
+th#dFf97fc98716564e16976dbf485a991d63,
+th#dF0f752c4bf1434a6c8f82e14184d9ee68{
+    border-bottom:1px solid #ddd;
+}
+
+/*==================================
+    table.lineの場合の背景色指定が足りていない（後でparts.css変更）
+==================================*/
+
+table#d_202_510_90_14610 .K30,
+table#d_202_510_90_14654 .K30{
+    background-color:#bbb;
+}
+table#d_202_510_90_62000 tr td{
+    background-color:#fff!important;
+}
+table#d_202_510_90_62000 tr:nth-child(odd) td{
+    background-color:#ddd!important;
+}
+
+
+
+table#d_136_1290_90_4366 th#d_136_1290_90_4369,
+table#dFddf97c4c2cf948b2b0c054a58e62a971 th#dF26087025bd8c495bbd04208861af729d{
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+table.line tr#d_136_1290_90_5820 td,
+table.line tr#d_136_1290_90_5831 td,
+table.line tr#d_136_1290_90_5889 td,
+table.line tr#d_136_1290_90_5901 td,
+table.line tr#d_136_1290_90_5854 td,
+table.line tr#d_136_1290_90_5866 td,
+table.line tr#d_136_1290_90_5768 td,
+table.line tr#d_136_1290_90_4118 td,
+table.line tr#d_136_1170_90_2919 td,
+table.line tr#dF61ecd265f4e14057b742e309538886ce td
+{
+    background-color:#efefef;
+}
+
+/*==================================
+    テーブル 線が一部＋シマシマスタイル
+==================================*/
+
+table#d_202_510_90_14610 th,
+table#d_202_510_90_14654 th{
+    border-bottom:2px solid #000;
+}
+table#d_202_510_90_14610 td,
+table#d_202_510_90_14654 td{
+    border:0;
+}
+table#d_202_510_90_14610,
+table#d_202_510_90_14654 {
+    border-top:2px solid #000;
+    border-bottom:2px solid #000;
+    border-left:0;
+}
+table#d_202_510_90_14610 th:first-child,
+table#d_202_510_90_14610 tr > td:first-child,
+table#d_202_510_90_14654 th:first-child,
+table#d_202_510_90_14654 tr > td:first-child{
+    border-right:2px solid #000;
+}
+
+
+
+
+/*==================================
+    テーブル td 縦の位置を真ん中にする
+==================================*/
+table.noLine td.middle,
+table.warning_list tr td.middle,
+table.line td.middle,
+.middle
+{
+    vertical-align:middle;
+}
+
+/*==================================
+    テーブル td 縦の位置をtopにする
+==================================*/
+
+.top{
+    vertical-align:top;
+}
+.center{
+    text-align:center;
+}
+/*==================================
+    アイコン付きのテキスト左にインデント1文字分あける
+==================================*/
+
+.indent_1 {
+/*    padding-left:1em; hal*/
+    text-indent:0em;
+}
+
+/*==================================
+    table背景をなしに設定
+==================================*/
+table#d_136_1290_90_4737 td,
+table#d_136_1290_90_4768 td{
+    background-color:#fff;
+}
+
+
+/*==================================
+    ◯付きプラスとマイナス
+==================================*/
+.pra_mi{
+    margin:0 3px;
+    font-size:130%;
+}
+
+/*==================================
+   左枠と右枠にわける
+==================================*/
+
+.rightArea{
+    float: right;
+    margin: 0 1%;
+    padding: 0;
+}
+.leftArea{
+    float: left;
+    margin: 0 1% ;
+    padding: 0;
+}
+.w45per{
+    width: 45%;
+}
+
+table.warning_list td div.icon_img{
+    overflow:hidden;
+}
+table.warning_list td div.icon_img img{
+    width:100%;
+}
+
+div.info_img img.per50{
+    max-width:50%;
+}
+
+
+
+/*
+    SP
+*/
+@media screen and (max-width:479px) {
+    /*==================================
+      マルチインフォメーションディスプレイ✤のメッセージ
+    ==================================*/
+    #multiInformationDisplayMessage table {
+        margin:0;
+    }
+    #multiInformationDisplayMessage table td{
+        display: block;
+        width:auto;
+        background: none;
+        text-align: left
+    }
+    #multiInformationDisplayMessage table colgroup,
+    #multiInformationDisplayMessage table thead,
+    #multiInformationDisplayMessage table th{
+        display: none;
+    }
+    #multiInformationDisplayMessage table td div{
+        text-align: left !important
+    }
+    #multiInformationDisplayMessage table td div.info_img{
+        margin:0 0 15px 0;
+    }
+    #multiInformationDisplayMessage table td div.info_img img{
+        display: block;
+        margin:0 auto;
+    }
+     #multiInformationDisplayMessage table tr{
+        border-bottom: 1px solid #000 !important;
+        padding: 15px 0 ;
+        display: block;
+     }
+    #multiInformationDisplayMessage col{
+        display: none;
+    }
+    #multiInformationDisplayMessage tr td:nth-child(1):before {
+        clear: both;
+        content: "メッセージ";
+        display: block;
+        color:#000;
+        font-size: 120%;
+        font-weight: bold;
+        margin: 0 0 10px;
+    }
+    #multiInformationDisplayMessage tr td:nth-child(2):before {
+        clear: both;
+        content: "表示される状況";
+        display: block;
+        color:#000;
+        font-size: 120%;
+        font-weight: bold;
+        margin: 0 0 0px;
+    }
+    #multiInformationDisplayMessage tr td:nth-child(3):before {
+        clear: both;
+        content: "アドバイス";
+        display: block;
+        font-size: 120%;
+        color:#000;
+        font-weight: bold;
+        margin: 0 0 10px;
+    }
+
+
+    #dFc68f5e9c61d44633a4a0496b45724602,
+    #d_136_890_90_3772,
+    #d_136_890_90_3835,
+    #dFf077873343414d3cbfb534fcd59e544f,
+    #dF1b826d5c919a47089d1e823925e9a112,
+    #dF7b263da8346f4744bc6256ece39719c9,
+    #dF7e2c8a1d21894cb9b839cfdcf46b949e,
+    #dF817f90ffac2b46c98f945066e4309fc6{
+        border-bottom:1px dashed #ccc !important;
+    }
+
+    table.warning_list tr td#dF443f86c257fa48b595f39d0871b89d4a:before,
+    table.warning_list tr td#d_136_890_90_3784:before,
+    table.warning_list tr td#dF701a3bbcf5c342949eb5b1dea78f452a:before,
+    table.warning_list tr td#dF1147de2b45714aceb8a6ebfe9f98d431:before,
+    table.warning_list tr td#dF5faca77224a549e19f0d209ce268ccc1:before,
+    table.warning_list tr td#dFe1c17fd7b2b2430ba5da8113e66eafa1:before,
+    table.warning_list tr td#dFbc77854c2eaa4fe489f75c9d4448f0b4:before,
+    table.warning_list tr td#dFe01f27e149684b779af9bcea3008099f:before{
+        content: "点灯/点滅する状況";
+        font-weight:bold;
+        clear: both;
+        display: block;
+        font-size: 110%;
+        margin: 0 0 5px;
+    }
+    table.warning_list tr td#dF7e64ca4c715f4a7ead30c70d9c26edfe:before,
+    table.warning_list tr td#dF9f3724d6e43c494b9d6b146d075cf326:before,
+    table.warning_list tr td#dF0bdfbeb578e9415ba44868ea6b77d4bd:before,
+    table.warning_list tr td#dF72fa7c3b329041a497f7f0f72c1b9dc2:before,
+    table.warning_list tr td#dF0f3d8ec37c2346819455c9fe0935bd08:before,
+    table.warning_list tr td#dFd437f234a37d4336a5000e22ecde6bed:before{
+        content: "知識";
+        font-weight:bold;
+        clear: both;
+        display: block;
+        font-size: 110%;
+        margin: 0 0 5px;
+    }
+    table.warning_list tr td#dF930756564d944e72a1d7c4c1bd854b4c:before,
+    table.warning_list tr td#dF1ba8ccb550b64e89a741b8fff8be8d01:before,
+    table.warning_list tr td#dF444770a6900d4670ba0dbf78260ac685:before,
+    table.warning_list tr td#dF1ea6d9e70339444d8866f76a70b88d38:before,
+    table.warning_list tr td#dF1544e107c64d45998289a2fae3c9f819:before,
+    table.warning_list tr td#dF63f5f5f730ac4b61b7d7ab466c1737b7:before{
+        content: "";
+    }
+
+    /*表示灯*/
+    table.warning_list tr td#d_136_890_90_4217:before{
+        content: "点灯/点滅する状況";
+        font-weight:bold;
+        clear: both;
+        display: block;
+        font-size: 110%;
+        margin: 0 0 5px;
+    }
+    table.warning_list tr td#d_136_890_90_4221:before{
+        content: "知識";
+        font-weight:bold;
+        clear: both;
+        display: block;
+        font-size: 110%;
+        margin: 0 0 5px;
+    }
+    table.warning_list tr td#d_136_890_90_4224:before{
+        content: "";
+    }
+
+
+    /*安全にお使いいただくためにの表*/
+    dl.attensionList2 dt{
+        display:block;
+        width:100%;
+    }
+    dl.attensionList2 dd{
+        display:block;
+        width:96%;
+    }
+
+}
+
+

@@ -1,0 +1,1510 @@
+{
+  "ja-JP": {
+    "nodes": [
+      {
+        "id": "out_front_id",
+        "pos": "out_front",
+        "nodes": [
+          {
+            "type": "point",
+            "id": "img_out_front_point_1",
+            "right": "624px",
+            "bottom": "234px",
+            "possize": "right:624px; bottom:279px; width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789004925.html",
+                "content": "моторный отсек"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_2",
+            "right": "534px",
+            "bottom": "268px",
+            "possize": "right:204px; bottom:102px; width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002700.html",
+                "content": "Как пользоваться передними стеклоочистителями и омывателями"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789004975.html",
+                "content": "Как заменить резину щетки переднего стеклоочистителя"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_3",
+            "right": "447px",
+            "bottom": "363px",
+            "possize": "right:407px; bottom:272px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789003191.html",
+                "content": "Передняя широкоугольная камера"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_4",
+            "right": "290px",
+            "bottom": "271px",
+            "possize": "right:374px; bottom:0px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002103.html",
+                "content": "Зеркала заднего вида"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002581.html",
+                "content": "Как пользоваться поворотниками (указателями поворота)"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "О светодиодных наружных фонарях автомобиля"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002123.html",
+                "content": "Боковое зеркало (со стороны пассажира)"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_5",
+            "right": "230px",
+            "bottom": "271px",
+            "possize": "right:239px; bottom:316px; width: auto; ",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001639.html",
+                "content": "Замок/Разблокировка"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_6",
+            "right": "355px",
+            "bottom": "24px",
+            "possize": "right:355px; bottom:77px; width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005007.html",
+                "content": "Об обслуживании шин"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005225.html",
+                "content": "Что делать при проколе шины"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_7",
+            "right": "490px",
+            "bottom": "148px",
+            "possize": "right:296px; bottom:0px;width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002587.html",
+                "content": "Фары и габаритные огни"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002587.html#d_323_456_789_002617",
+                "content": "Дневные ходовые огни"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002581.html",
+                "content": "поворотник"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "О светодиодных наружных фонарях автомобиля"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_front_point_8",
+            "right": "442px",
+            "bottom": "60px",
+            "possize": "right:442px; bottom:108px;width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002587.html#d_323_456_789_002627",
+                "content": "противотуманные фары<sup>✤</sup>"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "О светодиодных наружных фонарях автомобиля"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "out_rear_id",
+        "pos": "out_rear",
+        "nodes": [
+          {
+            "type": "point",
+            "id": "img_out_rear_point_6",
+            "right": "613px",
+            "bottom": "256px",
+            "possize": "right:613px; bottom:301px;width:auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002212.html",
+                "content": "Сдвижная дверь"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_rear_point_1",
+            "right": "475px",
+            "bottom": "130px",
+            "possize": "right:475px; bottom:180px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002412.html",
+                "content": "Заправка"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_rear_point_2",
+            "right": "288px",
+            "bottom": "244px",
+            "possize": "right:268px; bottom:289px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002736.html",
+                "content": "Как пользоваться задним стеклоочистителем и омывателем"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789004991.html",
+                "content": "Как заменить резиновую щётку заднего стеклоочистителя"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_rear_point_3",
+            "right": "279px",
+            "bottom": "350px",
+            "possize": "right:279px; bottom:257px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "Высокорасположенный стоп-сигнал"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_rear_point_4",
+            "right": "182px",
+            "bottom": "228px",
+            "possize": "right:182px; bottom:273px; width: auto; ",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002169.html",
+                "content": "задние двери"
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom01",
+            "possize": "right:232px;top:243px;width:98px;height:74px;",
+            "img": "../../../img/img_out_rear_zoom1.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_out_rear_zoom1_point_0",
+                "right": "405px",
+                "bottom": "195px",
+                "possize": "right:405px; bottom:247px; width: auto; ",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789005189.html",
+                    "content": "номерной фонарь"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_out_rear_zoom1_point_1",
+                "right": "586px",
+                "bottom": "235px",
+                "possize": "right:406px; bottom:285px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002400.html",
+                    "content": "Система задних широкоугольных камер<sup>✤</sup>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_out_rear_point_5",
+            "right": "424px",
+            "bottom": "208px",
+            "possize": "right:484px; bottom:10px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "Стоп-сигнал"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002587.html",
+                "content": "Задние фонари"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002581.html",
+                "content": "поворотник"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "Фонарь заднего хода"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005189.html",
+                "content": "О светодиодных наружных фонарях автомобиля"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "yoko_in_id",
+        "pos": "yoko_in",
+        "nodes": [
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_6",
+            "right": "594px",
+            "bottom": "287px",
+            "possize": "right:294px; bottom:332px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001506.html",
+                "content": "Система подушек безопасности SRS (для пассажирского сиденья)"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_0",
+            "right": "641px",
+            "bottom": "205px",
+            "possize": "right:473px; bottom:257px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002875.html",
+                "content": "Верхний ящик на пассажирском сиденье"
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom07",
+            "possize": "right:428px;top:352px;width:106px;height:64px;",
+            "img": "../../../img/img_yoko_in_zoom6.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom7_point_0",
+                "right": "545px",
+                "bottom": "258px",
+                "possize": "right:505px; bottom:298px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002893.html",
+                    "content": "Разъем для аксессуаров"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom7_point_1",
+                "right": "440px",
+                "bottom": "258px",
+                "possize": "right:414px; bottom:308px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789003036.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/it_021.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Разъем USB (для связи/зарядки)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom02",
+            "possize": "right:415px;top:219px;width:140px;height:126.02344px;",
+            "img": "../../../img/img_yoko_in_zoom2.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_1",
+                "right": "469px",
+                "bottom": "343px",
+                "possize": "right:469px; bottom:238px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002445.html",
+                    "content": "рычаг переключения передач"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_2",
+                "right": "286px",
+                "bottom": "222px",
+                "possize": "right:287px; bottom:272px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002780.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon137.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель ECON"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_3",
+                "right": "353px",
+                "bottom": "109px",
+                "possize": "right:353px; bottom:150px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002483.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon118.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель стояночного тормоза"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_7",
+                "right": "410px",
+                "bottom": "20px",
+                "possize": "right:210px; bottom:80px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002530.html",
+                    "content": "Переключатель автоматической блокировки тормозов"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_4",
+                "right": "682px",
+                "bottom": "116px",
+                "possize": "right:432px; bottom:162px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789003013.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon158.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель подогрева сидений<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_4",
+                "right": "712px",
+                "bottom": "196px",
+                "possize": "right:432px; bottom:162px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789003013.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon158.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель подогрева сидений<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_5",
+                "right": "602px",
+                "bottom": "295px",
+                "possize": "right:602px; bottom:340px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789003076.html",
+                    "content": "Автомобильный кондиционер"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom2_point_6",
+                "right": "604px",
+                "bottom": "164px",
+                "possize": "right:20px; bottom:212px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002755.html#d_323_456_789_002759",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon134a.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Обогреватель заднего стекла／<img class=\"icon_inline\" src=\"../img/inline/icon134b.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель обогрева наружных зеркал<sup>✤</sup>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_3",
+            "right": "584px",
+            "bottom": "91px",
+            "possize": "right:584px; bottom:140px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002870.html",
+                "content": "перчаточный ящик"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_1",
+            "right": "682px",
+            "bottom": "44px",
+            "possize": "right:682px; bottom:100px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789005176.html",
+                "content": "сигнальная ракета"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_4",
+            "right": "231px",
+            "bottom": "68px",
+            "possize": "right:231px; bottom:113px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002412.html",
+                "content": "<img class=\"icon_inline\" src=\"../img/inline/icon113.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Устройство для открывания крышки топливного бака"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_in_point_5",
+            "right": "199px",
+            "bottom": "25px",
+            "possize": "right:199px; bottom:70px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789004934.html",
+                "content": "<img class=\"icon_inline\" src=\"../img/inline/icon266.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Ручка открывания капота"
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom03",
+            "possize": "right:110px;top:293px;width:76px;height:115px;",
+            "img": "../../../img/img_yoko_in_zoom1.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom1_point_0",
+                "right": "620px",
+                "bottom": "345px",
+                "possize": "right:441px; bottom:254.7px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002103.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon087.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель регулировки наружных зеркал"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom1_point_1",
+                "right": "560px",
+                "bottom": "280px",
+                "possize": "right:368px; bottom:325px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789001731.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon057a.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/><img class=\"icon_inline\" src=\"../img/inline/icon057b.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Выключатель центральной блокировки дверей"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom1_point_2",
+                "right": "435px",
+                "bottom": "189px",
+                "possize": "right:435px; bottom:234px; width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002128.html",
+                    "content": "Переключатель электростеклоподъемников"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom04",
+            "possize": "right:210px;top:149px;width:198px;height:191px;",
+            "img": "../../../img/img_yoko_in_zoom.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom0_point_1",
+                "right": "265px",
+                "bottom": "63px",
+                "possize": "right:265px; bottom:110px;width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002787.html#d_323_456_789_002805",
+                    "content": "<img class=\"icon_inline\" src=\"../img/it_005.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель (VSA OFF)"
+                  },
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002773.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon136.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель подогрева лобового стекла<sup>✤</sup>"
+                  },
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002212.html#d_323_456_789_002272",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon099a.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/><img class=\"icon_inline\" src=\"../img/inline/icon099b.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель электроприводной сдвижной двери"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom0_point_2",
+                "right": "532px",
+                "bottom": "113px",
+                "possize": "right:439px; bottom:160px;width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789001788.html",
+                    "content": "Рычаг регулировки положения руля"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom0_point_3",
+                "right": "459px",
+                "bottom": "155px",
+                "possize": "right:259px; bottom:200px;width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789001506.html",
+                    "content": "Система подушек безопасности SRS (для водительского сиденья)"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom0_point_4",
+                "right": "332px",
+                "bottom": "113px",
+                "possize": "right:332px; bottom:160px;width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789005964.html",
+                    "content": "Блок предохранителей справа от водительского сиденья в салоне"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_in_zoom0_point_5",
+                "right": "632px",
+                "bottom": "63px",
+                "possize": "right:332px; bottom:160px;width: auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789006292.html",
+                    "content": "Блок предохранителей, расположенный слева от водительского сиденья в салоне"
+                  }
+                ]
+              },
+              {
+                "type": "zoompoint",
+                "id": "zoompoint01",
+                "possize": "right:550px;top:203px;width:137px;height:81px;",
+                "img": "../../../img/img_yoko_in_zoom5.png",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint0_point_0",
+                    "right": "657px",
+                    "bottom": "356px",
+                    "possize": "right:333px; bottom:173px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789002700.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/inline/icon131.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель стеклоочистителей и омывателя"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint0_point_1",
+                    "right": "476px",
+                    "bottom": "133px",
+                    "possize": "right:476px; bottom:172px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004686.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/inline/icon253.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint0_point_2",
+                    "right": "401px",
+                    "bottom": "116px",
+                    "possize": "right:401px; bottom:161px;width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004686.html",
+                        "content": "Левое колесико выбора"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "zoompoint",
+                "id": "zoompoint02",
+                "possize": "right:280px;top:203px;width:137px;height:81px;",
+                "img": "../../../img/img_yoko_in_zoom4.png",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint1_point_0",
+                    "right": "257px",
+                    "bottom": "357px",
+                    "possize": "right:257px; bottom:108px; width: auto; ",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789002587.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/inline/icon125a.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Свет"
+                      },
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789002581.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/inline/icon125b.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель поворотников"
+                      },
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789002587.html#d_323_456_789_002627",
+                        "content": "<img class=\"icon_inline\" src=\"../img/it_016.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель противотуманных фар<sup>✤</sup>"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint1_point_1",
+                    "right": "412px",
+                    "bottom": "136px",
+                    "possize": "right:412px; bottom:182px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789003879.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/it_018.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint1_point_4",
+                    "right": "344px",
+                    "bottom": "328px",
+                    "possize": "right:344px; bottom:233px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789002304.html",
+                        "content": "<span class=\"frame\">ENGINE START/STOP</span>Переключатель"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint1_point_2",
+                    "right": "521px",
+                    "bottom": "263px",
+                    "possize": "right:521px; bottom:308px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789003690.html",
+                        "content": "<img class=\"icon_inline\" src=\"../img/it_073.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Переключатель"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoompoint1_point_3",
+                    "right": "550px",
+                    "bottom": "136px",
+                    "possize": "right:470px; bottom:181px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789003690.html#d_323_456_789_003729",
+                        "content": "<img class=\"icon_inline\" src=\"../../../img/it_019.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Дальностной выключатель"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "zoompoint",
+                "id": "zoompoint03",
+                "possize": "right:340px;top:90px;width:300px;height:100px;",
+                "img": "../../../img/img_yoko_in_zoom3.png",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_0",
+                    "right": "865px",
+                    "bottom": "211px",
+                    "possize": "right:455px; bottom:111px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004625",
+                        "content": "термометр для воды"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_1",
+                    "right": "525px",
+                    "bottom": "256px",
+                    "possize": "right:120px; bottom:66px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004643",
+                        "content": "Отображение адаптивного круиз-контроля (ACC) с функцией следования в пробке / системы поддержания полосы движения (LKAS) / системы помощи при движении в пробке (Traffic Jam Assist)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_2",
+                    "right": "428px",
+                    "bottom": "352px",
+                    "possize": "right:428px; bottom:262px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004608",
+                        "content": "Спидометр"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_8",
+                    "right": "598px",
+                    "bottom": "342px",
+                    "possize": "right:528px; bottom:262px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004623",
+                        "content": "Амбиент-метр"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_9",
+                    "right": "508px",
+                    "bottom": "352px",
+                    "possize": "right:528px; bottom:262px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004610",
+                        "content": "тахометр"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_3",
+                    "right": "334px",
+                    "bottom": "254px",
+                    "possize": "right:334px; bottom:164px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004638",
+                        "content": "Отображение функции распознавания дорожных знаков"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_4",
+                    "right": "36px",
+                    "bottom": "211px",
+                    "possize": "right:36px; bottom:111px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004618",
+                        "content": "Указатель уровня топлива"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_5",
+                    "right": "227px",
+                    "bottom": "96px",
+                    "possize": "right:227px; bottom:146px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004656",
+                        "content": "Часы"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_6",
+                    "right": "450px",
+                    "bottom": "96px",
+                    "possize": "right:450px; bottom:146px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004651",
+                        "content": "одометр"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_6",
+                    "right": "450px",
+                    "bottom": "156px",
+                    "possize": "right:450px; bottom:186px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004677.html",
+                        "content": "Мультиинформационный дисплей"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_7",
+                    "right": "670px",
+                    "bottom": "96px",
+                    "possize": "right:670px; bottom:146px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/323456789004597.html#d_323_456_789_004630",
+                        "content": "Отображение температуры наружного воздуха"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_10",
+                    "right": "751px",
+                    "bottom": "228px",
+                    "possize": "right:776px; bottom:257px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/lamp.html",
+                        "content": "Сигнальные и индикаторные лампы"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "point",
+                    "id": "img_yoko_in_zoom3_point_10",
+                    "right": "110px",
+                    "bottom": "228px",
+                    "possize": "right:776px; bottom:257px; width: auto;",
+                    "content": null,
+                    "nodes": [
+                      {
+                        "type": null,
+                        "link": "../../../HTMLtemplate/lamp.html",
+                        "content": "Сигнальные и индикаторные лампы"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "yoko_side_id",
+        "pos": "yoko_side",
+        "nodes": [
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_0",
+            "right": "688px",
+            "bottom": "329px",
+            "possize": "right:606px; bottom:240px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002097.html",
+                "content": "внутреннее зеркало"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_2",
+            "right": "143px",
+            "bottom": "374px",
+            "possize": "right:143px; bottom:284px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002828.html",
+                "content": "Внутреннее освещение"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_14",
+            "right": "389px",
+            "bottom": "386px",
+            "possize": "right:459px; bottom:286px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002828.html",
+                "content": "Внутреннее освещение"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_13",
+            "right": "300px",
+            "bottom": "340px",
+            "possize": "right:319px; bottom:265px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002067.html",
+                "content": "Ремень безопасности с отсоединяемым держателем<sup>✤</sup>"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_1",
+            "right": "526px",
+            "bottom": "289px",
+            "possize": "right:526px; bottom:199px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002005.html",
+                "content": "Ремни безопасности"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_3",
+            "right": "500px",
+            "bottom": "360px",
+            "possize": "right:315px; bottom:269px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001532.html",
+                "content": "Система боковых подушек безопасности"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_9",
+            "right": "370px",
+            "bottom": "155px",
+            "possize": "right:370px; bottom:200px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001340.html",
+                "content": "<img class=\"icon_inline\" src=\"../img/inline/icon029.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Крепежные устройства ISOFIX/i-Size"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_10",
+            "right": "308px",
+            "bottom": "142px",
+            "possize": "right:308px; bottom:187px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001340.html",
+                "content": "<img class=\"icon_inline\" src=\"../img/inline/icon029.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Крепежные устройства ISOFIX/i-Size"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_4",
+            "right": "642px",
+            "bottom": "117px",
+            "possize": "right:618px; bottom:22px; width: auto; ",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001854.html",
+                "content": "Передние сиденья"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_5",
+            "right": "427px",
+            "bottom": "132px",
+            "possize": "right:187px; bottom:177px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001873.html",
+                "content": "Второе капитанское кресло<sup>✤</sup>Как настроить"
+              },
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001889.html",
+                "content": "Второй ряд сидений<sup>✤</sup>Как настроить"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_6",
+            "right": "189px",
+            "bottom": "160px",
+            "possize": "right:189px; bottom:68px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001962.html",
+                "content": "Третий ряд сидений<sup>✤</sup>"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_8",
+            "right": "480px",
+            "bottom": "215px",
+            "possize": "right:343px; bottom:260px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789001514.html",
+                "content": "Система боковых подушек безопасности"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_11",
+            "right": "443px",
+            "bottom": "281px",
+            "possize": "right:443px; bottom:326px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789003039.html",
+                "content": "<img class=\"icon_inline\" src=\"../img/it_022.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Разъем USB (только для зарядки)<sup>✤</sup>"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_7",
+            "right": "442px",
+            "bottom": "381px",
+            "possize": "right:258px; bottom:279px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789003092.html",
+                "content": "Кондиционер для задних сидений<sup>✤</sup>"
+              }
+            ]
+          },
+          {
+            "type": "point",
+            "id": "img_yoko_side_point_12",
+            "right": "495px",
+            "bottom": "165px",
+            "possize": "right:415px; bottom:210px; width: auto;",
+            "content": null,
+            "nodes": [
+              {
+                "type": null,
+                "link": "../../../HTMLtemplate/323456789002906.html",
+                "content": "Крючок для мини-маркета<sup>✤</sup>"
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom05",
+            "possize": "right:648px;top:62px;width:56px;height:34px;",
+            "img": "../../../img/img_yoko_side_zoom1.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom1_point_1",
+                "right": "414px",
+                "bottom": "61px",
+                "possize": "right:414px; bottom:106px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002828.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon143.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Внутреннее освещение<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom1_point_0",
+                "right": "228px",
+                "bottom": "108px",
+                "possize": "right:228px; bottom:153px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002848.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon142.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Напольная лампа"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom1_point_2",
+                "right": "577px",
+                "bottom": "33px",
+                "possize": "right:577px; bottom:78px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002848.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon142.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Напольная лампа"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom1_point_3",
+                "right": "461px",
+                "bottom": "183px",
+                "possize": "right:458px; bottom:241px;width:auto;\"",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789006559.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon326.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Кнопка экстренного вызова"
+                  },
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789006582.html",
+                    "content": "<img class=\"icon_inline\" src=\"../img/inline/icon327.png\" style=\"height: 35px;vertical-align: middle;margin-right: 5px; border: solid 1px\"/>Кнопка поддержки при возникновении проблем"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "zoom",
+            "id": "zoom06",
+            "possize": "right:67px;top:169px;width:94px;height:149px;",
+            "img": "../../../img/img_yoko_side_zoom2.png",
+            "content": null,
+            "nodes": [
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_0",
+                "right": "209px",
+                "bottom": "267px",
+                "possize": "right:209px; bottom:312px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002893.html",
+                    "content": "Разъем для аксессуаров<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_1",
+                "right": "235px",
+                "bottom": "202px",
+                "possize": "right:235px; bottom:247px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002919.html",
+                    "content": "Универсальная гайка<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_2",
+                "right": "451px",
+                "bottom": "223px",
+                "possize": "right:451px; bottom:268px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002862.html",
+                    "content": "Фонарь задней двери<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_3",
+                "right": "531px",
+                "bottom": "153px",
+                "possize": "right:531px; bottom:198px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789003002.html",
+                    "content": "Напольная доска<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_4",
+                "right": "588px",
+                "bottom": "38px",
+                "possize": "right:588px; bottom:83px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002912.html",
+                    "content": "Грузовой крюк<sup>✤</sup>"
+                  }
+                ]
+              },
+              {
+                "type": "point",
+                "id": "img_yoko_side_zoom2_point_5",
+                "right": "451px",
+                "bottom": "403px",
+                "possize": "right:451px; bottom:298px;width:auto;",
+                "content": null,
+                "nodes": [
+                  {
+                    "type": null,
+                    "link": "../../../HTMLtemplate/323456789002854.html",
+                    "content": "Освещение грузового отсека<sup>✤</sup>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

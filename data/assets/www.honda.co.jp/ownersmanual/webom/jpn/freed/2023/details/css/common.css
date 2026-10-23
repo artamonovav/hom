@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@import "../../css/reset.css";
+@import "https://ce.mf.marsflag.com/latest/css/mf-search.css"; 
+@import "../../css/base.css"; 
+@import "../../css/layout.css"; 
+@import "../../css/parts.css"; 
+@import "../../css/corner.css"; 
+@import "device.css"; 
+@import "style.css"; 
+@import "navi.css"; 

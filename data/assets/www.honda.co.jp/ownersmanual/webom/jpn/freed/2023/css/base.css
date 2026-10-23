@@ -1,0 +1,269 @@
+@charset "UTF-8";
+ 
+/*
+===========================================================================
+| 			site common style
+===========================================================================
+*/
+
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type:none;
+}
+html,body{
+	height: 100%;
+	margin: 0;  
+	padding: 0;  
+}
+
+body{
+	font-family:"ヒラギノ角ゴ Pro","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック",MS-PGothic,sans-serif;
+	font-size: 100%;
+	background:#fff;
+	padding:0;
+	margin:0;
+	color:#000;
+	line-height: 150%;
+}
+
+
+/*----------------------------------------------------------------------
+/			image 
+/----------------------------------------------------------------------*/
+img{
+	border:none;
+}
+
+img.icon{
+	vertical-align: middle;
+	margin:  0 4px;
+}
+
+/*----------------------------------------------------------------------
+/			form 
+/----------------------------------------------------------------------*/
+input,select{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+option{
+	padding-right: 10px;
+}
+
+textarea{
+	font-size:100%;
+	border:1px solid #ccc;
+	padding:5px;
+	background-color:#f6f6f6
+}
+input , select{
+	font-size:100%;
+}
+
+/*----------------------------------------------------------------------
+/			link 
+/----------------------------------------------------------------------*/
+a{
+
+}
+a:link{
+	color: #0066ad;
+	text-decoration: none;
+}
+a:visited{
+	/*color: #663366;*/
+	color: #666699;
+	text-decoration: none;
+}
+a:hover{
+	color: #1e8eb3;
+	text-decoration: none;
+}
+
+/*----------------------------------------------------------------------
+/			paragraph 
+/----------------------------------------------------------------------*/
+
+
+h1{	
+	font-size:112%;
+	line-height: 140%;
+	font-weight: bold;
+	margin:0 0 20px 20px;
+	color:#fff;
+	background-color:#222;
+	font-weight:bold;
+	padding: 6px 14px;
+}
+h1 a,
+h1 a:hover{
+	cursor:default;
+	color:#fff;
+}
+h2{
+	background:#666;
+	color:#fff;
+	padding: 4px 12px;
+	border-radius: 4px;
+	font-weight:bold;
+	margin:20px 0 15px 0;
+	font-size:112%;
+}
+h2 img{
+	width:auto;
+	height:30px;
+	padding:5px 10px 5px 0px;
+}
+h3{
+	font-size: 100%;
+	font-weight:bold;
+	margin: 20px 0 15px 0;
+	padding: 5px 0 5px 22px;
+	border-bottom: 1px solid #ccc;
+	background:url(../images/common/icon_square.png) no-repeat 0 10px;
+}
+h4{
+	background:#333;
+	color: #fff;
+	padding: 2px 6px;
+	font-size: 90%;
+	margin:0 0 10px 0;
+}
+
+p{
+	padding: 0;
+	margin-bottom: 0.3em;
+}
+
+.caption{
+	font-size: 85%;
+	font-weight:normal;
+}
+p.caption{
+	line-height: 140%;
+}
+
+
+strong{
+	color :#cc0000;
+	font-weight:bold;
+	text-decoration: none;
+	font-style: normal;
+}
+em{
+	font-weight:bold;
+	text-decoration: none;
+	font-style: normal;
+}
+sup{
+	font-size:70%;
+	vertical-align: text-top;
+	line-height: 4px;
+	margin:0 2px;
+}
+/*----------------------------------------------------------------------
+/			table
+/----------------------------------------------------------------------*/
+table{
+	line-height: 160%;
+	font-size: 100%;
+	
+}
+th,td{
+	vertical-align: middle;
+}
+table .top{
+	vertical-align:top;
+}
+table .center{
+	text-align:center;
+}
+/*通常表組*/
+
+caption{
+	text-align :left;
+	position: absolute;
+	display: none;
+}
+.nowrap{
+	white-space: nowrap;
+}
+
+caption{
+	text-align :left;
+	position: absolute;
+	display: none;
+}
+tr.center th{
+	text-align:center;
+}
+tr.center td{
+	text-align:center;
+}
+table ol{
+	margin:0;
+	padding:0px;
+	list-style-position: inside;
+
+}
+table ol li{
+}
+/*----------------------------------------------------------------------
+/			i
+/----------------------------------------------------------------------*/
+i{
+	font-style: italic;
+	font-family:sans-serif;
+}
+i a{
+	font-style: normal;
+}
+/*----------------------------------------------------------------------
+/			list
+/----------------------------------------------------------------------*/
+
+
+ul{
+	
+}
+
+li{
+
+}
+
+
+ol {
+	margin: 0 0 15px 0;
+	padding: 10px 0 10px 1.5em;
+}
+ol li{
+	list-style-type: decimal;
+}
+ol.list li ul.list li{
+	list-style-type: disc;
+}
+ol ul li{
+	list-style-type:none;
+}
+dl.list{
+	margin: 0 0 5px 0;
+	padding: 10px 10px 6px 10px;
+	border:5px solid #ddd;
+}
+dt{
+	font-weight: bold;
+}
+dd{
+	margin-bottom: 3px;
+	padding: 0 15px;
+}
+
+/*----------------------------------------------------------------------
+/			form
+/----------------------------------------------------------------------*/
+input,select,textarea{
+	font-size:100%;
+}
+

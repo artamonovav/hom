@@ -1,0 +1,165 @@
+@charset "utf-8";
+
+
+
+/*====================================================================
+   ナビ
+====================================================================*/
+
+#navMarkList table#d_202_510_90_17510,
+#navMarkList table#d_202_510_90_30833{
+    border:1px solid #000;
+}
+#navMarkList table#d_202_510_90_17510 th,
+#navMarkList table#d_202_510_90_30833 th{
+    border-bottom:1px solid #000;
+    padding:0 3px;
+}
+#navMarkList table#d_202_510_90_17510 tr,
+#navMarkList table#d_202_510_90_30833 tr,
+#navMarkList table#d_202_510_90_17510 img.icon_inline,
+#navMarkList table#d_202_510_90_30833 img.icon_inline {
+    border:0 !important;
+}
+
+/*==================================
+   マーク一覧
+==================================*/
+#navMarkList table.frame td img{
+    float: left;
+    width:18px;
+    height: auto;
+}
+#navMarkList table.frame td {
+    font-size:85%;
+}
+#navMarkList div.column{
+  overflow:hidden;
+  margin-bottom:30px;
+  border-left:1px solid #000;
+  border-right:1px solid #000;
+  border-bottom:1px solid #000;
+  padding:5px;
+}
+#navMarkList table.frame{
+  border-bottom:none;
+  margin-bottom:0!important;
+}
+#navMarkList table.frame tr{
+  border: none;
+}
+ #navMarkList table.col4p{
+  width:23%;
+  margin:0 1%!important;
+  float:left;
+}
+ #navMarkList table.col2p{
+  width:48%;
+  margin:0 1%;
+  float:left;
+}
+#navMarkList div.column table.frame{
+  border-top:none;
+ }
+#navMarkList table.frame span.txt{
+    padding-left:2%;
+    line-height:130%;
+}
+
+#navMarkList table.frame td {
+    padding: 4px 8px;
+}
+
+#navMarkList div.column table.frame td{
+    display:table;
+}
+
+#navMarkList div.column table.frame td span.txt{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:left;
+    padding: 4px 8px;
+}
+
+
+/*==================================
+  ジャンル一覧　detailsnavi/20251090-17883.html
+==================================*/
+
+table#d_202_510_90_17889 td,
+table#d_202_510_90_17889 th,
+table#d_202_510_90_17889B td,
+table#d_202_510_90_17889B th {
+    border:0;padding:2px 8px;
+}
+
+table#d_202_510_90_17889,
+table#d_202_510_90_17889B,
+table#d_202_510_90_17889 th,
+table#d_202_510_90_17889B th {
+    border:1px solid #000;
+}
+table#d_202_510_90_17889 .rLine,
+table#d_202_510_90_17889B .rLine{
+    border-right:1px solid #000;
+}
+.lCol,.rCol{width:50%;float:left;}
+.wrap {overflow:hidden;}
+
+
+/*
+    SP
+*/
+@media screen and (max-width:479px) {
+    /*==================================
+      マーク一覧
+    ==================================*/
+    #navMarkList colgroup{
+        display: none;
+    }
+    #navMarkList table.frame tr,#navMarkList table.frame td{
+        display: block;
+    }
+    #navMarkList table.frame p#d_202_510_90_22762,#navMarkList table.frame p#d_202_510_90_17517{
+        margin-bottom:0;
+    }
+    #navMarkList div.column table.frame tr{
+        padding:5px 0;
+    }
+
+    #navMarkList table.frame thead tr {
+        display: block;
+        width:auto;
+    }
+    #navMarkList table.frame thead tr th{
+        display: block;
+        width:auto;
+        text-align:left;
+        padding: 5px !important;
+    }
+     #navMarkList table.col4p{
+      width:100%;
+      margin:0 ;
+      float:none;
+    }
+     #navMarkList table.col2p{
+      width:100%;
+      margin:0 ;
+      float:none;
+    }
+    #navMarkList table.frame td {
+        font-size:90%;
+    }
+    #navMarkList table.frame span.txt{
+        padding-left:2%;
+    }
+
+  /*==================================
+    ジャンル一覧　detailsnavi/20251090-17883.html
+  ==================================*/
+    .lCol, .rCol ,.lCol table, .rCol table{
+        width:100%;float:none;
+    }
+}
+
+

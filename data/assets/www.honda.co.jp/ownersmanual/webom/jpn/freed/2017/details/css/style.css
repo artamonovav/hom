@@ -1,0 +1,74 @@
+
+/*==================================
+	override
+==================================*/
+
+@media screen and (max-width:479px) {
+	 table#_136_620_90{
+		 display:block;
+	 }
+	 table#_136_620_90 thead tr{
+		 display:none;
+	 }
+	 table#_136_620_90 tr{
+		 display:block;
+		 border:1px solid #666 !important;
+		 padding:0px;
+		 margin:0 0 15px 0;
+	 }
+	 table#_136_620_90 td{
+	 	border:none;
+		 padding:0 !important;
+		 margin-bottom:6px;
+		 background: transparent;
+	 }
+	 table#_136_620_90 td div{
+	 	padding: 0 5px;
+	 }
+	 table#_136_620_90 tr td:before{
+		 font-weight:bold;
+		 background:#444;
+		 color:#fff;
+		 padding:3px 4px;
+		 font-size:110%;
+		 display:block;
+		 margin-bottom:4px;
+	 }
+	 table#_136_620_90 tr td:nth-child(1):before{
+		 content: '車両と自車の距離';
+	 
+	 }
+	 table#_136_620_90 tr td:nth-child(1) div{
+		 font-size:130%;
+		 font-weight:bold;
+	 	padding: 5px ;
+	 }
+	 table#_136_620_90 tr td:nth-child(3):before{
+		 content: '状況';
+	 }
+	 table#_136_620_90 tr td:nth-child(4):before{
+		 content: 'E-プリテンショナー';
+	 }
+	 table#_136_620_90 tr td:nth-child(5):before{
+		 content: 'ブザーと表示による警告';
+	 }
+	 table#_136_620_90 tr td:nth-child(6):before{
+		 content: 'ブレーキ';
+	 }
+	 table#_136_620_90 tr td:nth-child(7):before{
+		 content: 'ステアリング制御';
+	 }
+	 table#_136_620_90 tr td:nth-child(7){
+	 }
+	 
+	 
+	 table#_202_20_90 colgroup col:nth-child(1){
+	 	width:15%;
+		white-space: nowrap;
+	 }
+	 table#_202_20_90 colgroup col:nth-child(2){
+	 	width:15%;
+		white-space: nowrap;
+	 }
+}
+

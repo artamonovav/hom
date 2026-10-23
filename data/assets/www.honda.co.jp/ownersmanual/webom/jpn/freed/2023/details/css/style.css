@@ -1,0 +1,411 @@
+@charset "utf-8";
+
+/*====================================================
+	override
+====================================================*/
+span.block.noborder {
+	border:none;
+}
+.operation .info_img img{
+	max-width:100%;
+}
+
+/*==================================
+	警告灯 / 表示灯
+==================================*/
+table.warning_list{
+	width:100%;
+	border-collapse: collapse;
+	border:none;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+	line-height:150%;
+	font-size:90%;
+	border-spacing: 0px;
+}
+table.warning_list col,
+table.warning_list tr{
+	border:none !important;
+}
+table.warning_list thead th{
+	border-right:1px solid #fff;
+	background:#ddd;
+}
+table.warning_list tr td.K20{
+	background:transparent;
+}
+table.warning_list tr td.K60{
+	padding: 5px 
+}
+table.warning_list tr td.last{
+    background-color:#eee;
+}
+table.warning_list tr td.last div.info_img img{
+    width:60px;
+}
+table.warning_list tr td{
+	vertical-align:top;
+	padding:5px;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+table.warning_list td ul.info_list{
+	padding:0 0 0 20px;
+}
+table.warning_list td div.info_img {
+	margin: 5px 0;
+}
+table.warning_list td div.info_img img{
+	width:95%;
+	display: block;
+	margin:0 auto;
+}
+table.warning_list td:first-child div.info_img img{
+	width:40px !important;
+}
+table.warning_list td sup{
+	white-space:nowrap;
+}
+table.warning_list td br{
+	display: block;
+}
+table.warning_list + div.notes{
+	position:relative;
+	top:-20px;
+	font-size:90%;
+}
+
+table.warning_list col:nth-child(1){width:7%;}
+table.warning_list col:nth-child(2){width:11%;}
+table.warning_list col:nth-child(3){width:28%;}
+table.warning_list col:nth-child(4){width:27%;}
+table.warning_list col:nth-child(5){width:27%;}
+
+
+/*==================================
+	マルチインフォメーションディスプレイのメッセージ
+==================================*/
+#multiInformationDisplayMessage table.noLine br {
+	display: block;
+}
+#multiInformationDisplayMessage td:nth-child(1) {
+	padding:0 15px;
+}
+#multiInformationDisplayMessage td:nth-child(1) span.bg_gray{
+	line-height:1.2;
+	padding:4%;
+	border:1px solid #fff;
+}
+#multiInformationDisplayMessage div.head + div.info_img {
+	margin-top:5px;
+}
+#multiInformationDisplayMessage div.head + ul.info_list {
+	padding-top:2px;
+}
+#multiInformationDisplayMessage table + p {
+	position: relative;
+	top: -20px;
+	font-size: 90%;
+}
+
+#multiInformationDisplayMessage col:nth-child(1){width:30%;}
+#multiInformationDisplayMessage col:nth-child(2){width:35%;}
+#multiInformationDisplayMessage col:nth-child(3){width:35%;}
+
+
+
+
+@media screen and (max-width:479px) {
+
+	/*==================================
+		警告灯 / 表示灯
+	==================================*/
+	table.warning_list{
+		width:100% !important;
+		font-size:100%;
+		margin-bottom:0;
+	}
+	table.warning_list thead{
+		display:none;
+	}
+	table.warning_list td.K20{
+		background-color:#fff;
+	}
+	table.warning_list td{
+		display:block;
+	}
+	table.warning_list colgroup col{
+		display:block;
+		width:100%;
+	}
+	table.warning_list tr{
+		border-top: 1px solid #ccc !important;
+		display:block;
+		padding-top: 20px;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+	}
+	table.warning_list td:nth-child(2) div{
+		font-weight:bold;
+		font-size: 120%;
+		line-height: 150%;
+	}
+	table.warning_list td:first-child div.info_img {
+		margin: 0;
+	}
+	table.warning_list td div.info_img img{
+		width: 90%;
+		max-width:310px !important;
+	}
+	table.warning_list td:first-child div.info_img img{
+		width:40px !important;
+		padding:10px 0;
+	}
+	table.warning_list td.K60{
+		width:60px;
+		float:left;
+		margin:0 15px 15px 0;
+		border-radius: 6px;
+		-webkit-border-radius: 6px;
+		-moz-border-radius: 6px;
+	}
+	table.warning_list td ul.info_list{
+		clear:left;
+		padding-bottom:0;
+		padding-top:0;
+		margin:0;
+	}
+	table.warning_list,
+	table.warning_list td,
+	table.warning_list td.K20,
+	table.warning_list thead th{
+		border:none;
+	}
+	table.warning_list thead th{
+		border:none;
+	}
+	table.warning_list tr td:nth-child(3):before{
+		content: '点灯/点滅する状況';
+		display:block;
+		font-weight: bold;
+		font-size:110%;
+		font-weight:bold;
+		margin:0 0 5px 0;
+		clear:both;
+	}
+	table.warning_list tr td:nth-child(4):before{
+		content: '知識';
+		display:block;
+		font-weight: bold;
+		font-size:110%;
+		font-weight:bold;
+		margin:0 0 5px 0;
+	}
+
+	 td#d_136_1780_90_90754:before,
+	 td#d_136_1780_90_37907:before,
+	 td#d_136_1780_90_37928:before,
+	 td#d_136_1780_90_90772:before,
+	 td#d_136_1780_90_38293:before,
+	 td#d_136_1780_90_38260:before,
+	 td#d_136_1780_90_38272:before{
+	 	content: '点灯/点滅する状況';
+	 	font-size: 110%;
+	 	font-weight: bold;
+	 	margin: 0 0 5px;
+	 }
+	 td#d_136_1780_90_37763:before,
+	 td#d_136_1780_90_37773:before,
+	 td#d_136_1780_90_90758:before,
+	 td#d_136_1780_90_37912:before,
+	 td#d_136_1780_90_37932:before,
+	 td#d_136_1780_90_90776:before,
+	 td#d_136_1780_90_38297:before,
+	 td#d_136_1780_90_38264:before,
+	 td#d_136_1780_90_38277:before{
+	 	content: '知識';
+	 	font-size: 110%;
+	 	font-weight: bold;
+	 	margin: 0 0 5px;
+	 	text-align:left;
+	 }
+	 td#d_136_1780_90_90768:before,
+	 td#d_136_1780_90_37924:before,
+	 td#d_136_1780_90_37942:before,
+	 td#d_136_1780_90_90784:before,
+	 td#d_136_1780_90_38307:before,
+	 td#d_136_1780_90_38268:before,
+	 td#d_136_1780_90_38289:before{
+	 	content: '';
+	 }
+	table.warning_list tr#d_136_1780_90_37372,
+	table.warning_list tr#d_136_1780_90_38333 {
+		border-top: 0 !important;
+	}
+
+	/*==================================
+		マルチインフォメーションディスプレイのメッセージ
+	==================================*/
+	#multiInformationDisplayMessage > div.head {
+		margin: 0 0 -2px 0;
+	}
+	#multiInformationDisplayMessage table + p {
+		top:0;
+	}
+	#multiInformationDisplayMessage table div.head br{
+		display:none;
+	}
+	#multiInformationDisplayMessage table span.bg_gray{
+		padding: 5px;
+	}
+	#multiInformationDisplayMessage table {
+		margin:0;
+	}
+	#multiInformationDisplayMessage table td{
+		display: block;
+		width:auto;
+		background: none;
+		text-align: left;
+	}
+	#multiInformationDisplayMessage table colgroup,
+	#multiInformationDisplayMessage table thead,
+	#multiInformationDisplayMessage table th{
+		display: none;
+	}
+	#multiInformationDisplayMessage table td div.info_img{
+		margin:0 0 15px 0;
+	}
+	#multiInformationDisplayMessage table td div.info_img img{
+		display: block;
+		margin:0 auto;
+		max-width:80% !important;
+	}
+	#multiInformationDisplayMessage table tr{
+		padding: 15px 0;
+		display: block;
+		border-bottom:0 !important;
+		border-top:1px solid #ccc !important;
+		padding-top: 20px !important;
+	}
+	#multiInformationDisplayMessage table p.info_link_sub a {
+		background-position-y:50%;
+	}
+	#multiInformationDisplayMessage table sup{
+	color:#000;
+	font-size: 95%;
+	}
+	#multiInformationDisplayMessage table + .notes {
+		top: 0;
+	}
+	#multiInformationDisplayMessage col{
+		display: none;
+	}
+	#multiInformationDisplayMessage tr td:nth-child(1):before {
+		clear: both;
+		content: "メッセージ";
+		display: block;
+		color:#000;
+		font-size: 120%;
+		font-weight: bold;
+		margin: 0 0 10px;
+	}
+	#multiInformationDisplayMessage tr td:nth-child(2):before {
+		clear: both;
+		content: "表示される状況";
+		display: block;
+		color:#000;
+		font-size: 120%;
+		font-weight: bold;
+		margin: 0 0 0px;
+	}
+	#multiInformationDisplayMessage tr td:nth-child(3):before {
+		clear: both;
+		content: "アドバイス";
+		display: block;
+		font-size: 120%;
+		color:#000;
+		font-weight: bold;
+		margin: 0 0 0;
+	}
+
+	#multiInformationDisplayMessage tr td#d_136_1660_90_41794:before,
+	#multiInformationDisplayMessage tr td#d_136_1660_90_85988:before {
+		content: "表示される状況";
+		margin: 0 0 0px;
+	}
+	#multiInformationDisplayMessage tr td#d_136_1660_90_41798:before,
+	#multiInformationDisplayMessage tr td#d_136_1660_90_85992:before {
+		content: "アドバイス";
+	}
+
+	/*==================================
+		オイルモニターシステムの表示
+	==================================*/
+/*
+	table#d_136_1620_90_63151,
+	table#d_136_1620_90_63151 tr,
+	table#d_136_1620_90_63151 td,
+	table#d_136_1620_90_63151 tbody
+	{
+		display:block;
+		background-color:#fff;
+		border:none !important;
+		text-align:left;
+	}
+	table#d_136_1620_90_63151,
+	table#d_136_1620_90_94601
+	{
+		width:90%,
+		margin:0 5%;
+	}
+	table#d_136_1620_90_63151 tr,
+	table#d_136_1620_90_94601 tr
+	{
+		margin-bottom:20px;
+	}
+	table#d_136_1620_90_63151 td,
+	table#d_136_1620_90_94601 td
+	{
+		margin-bottom:10px;
+	}
+	table#d_136_1620_90_63151 tr,
+	table#d_136_1620_90_63151 td,
+	table#d_136_1620_90_94601 tr,
+	table#d_136_1620_90_94601 td
+	{
+		width:100%;
+	}
+	table#d_136_1620_90_63151 th,
+	table#d_136_1620_90_94601 th
+	{
+		display:none;
+	}
+	table#d_136_1620_90_63151 td:nth-child(1):before,
+	table#d_136_1620_90_94601 td:nth-child(1):before
+	{
+		content: 'メッセージ';
+		font-size: 110%;
+		font-weight: bold;
+		margin: 0 0 5px;
+	}
+	table#d_136_1620_90_63151 td:nth-child(2):before,
+	table#d_136_1620_90_63151 tr:nth-child(2) td:nth-child(1):before,
+	table#d_136_1620_90_94601 td:nth-child(2):before
+	{
+		content: 'オイルモニターシステム情報';
+		font-size: 110%;
+		font-weight: bold;
+		margin: 0 0 5px;
+	}
+	table#d_136_1620_90_63151 td:nth-child(3):before,
+	table#d_136_1620_90_63151 tr:nth-child(2) td:nth-child(2):before,
+	table#d_136_1620_90_94601 td:nth-child(3):before
+	{
+		content: '情報';
+		font-size: 110%;
+		font-weight: bold;
+		margin: 0 0 5px;
+	}
+*/
+}
+

@@ -1,0 +1,244 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <title id="toptitle"></title>
+  <!-- css -->
+  <link rel="stylesheet" type="text/css" href="../../../css/common.css">
+  <link rel="stylesheet" type="text/css" href="../../../css/style.css">
+  <link rel="stylesheet" type="text/css" href="../../../css/introjs.min.css">
+  <script type="text/javascript" src="../../../javascript/bc_utility.js"></script>
+  <script type="text/javascript" src="../../../javascript/outline_utility.js"></script>
+  <script type="text/javascript" src="../../../javascript/contents_utility.js"></script>
+  <script type="text/javascript" src="../../../javascript/visualindex_utility.js"></script>
+  <script type="text/javascript">
+      setInlineStorage();
+
+      function clearSearchHistory() {
+          removeStorage('ResearchKeys');
+          removeStorage('SearchResults');
+          removeStorage('SearchResultsHistory');	
+      }
+      document.addEventListener("DOMContentLoaded", clearSearchHistory);
+  </script>
+
+  <style type="text/css">
+
+    #top .wrap .content .visualSelect .point_off {
+      position: absolute;
+      z-index: 20;
+      width: 48px;
+      height: 48px;
+      background: url(../../../images/common/point_off.png) no-repeat center center;
+    }
+
+    #top .wrap .content .visualSelect .point_on {
+      position: absolute;
+      z-index: 20;
+      width: 48px;
+      height: 48px;
+      background: url(../../../images/common/point_on.png) no-repeat center center;
+    }
+
+    #top .wrap .content .visualSelect .pop p {
+      position: relative;
+      padding: 10px 65px 10px 27px;
+      border-bottom: 1px solid #555;
+      text-align: left;
+    }
+
+    #top .wrap .content .visualSelect .pop p span {
+      position: absolute;
+      right: 16px;
+      top: 17px;
+      width: 36px;
+      height: 36px;
+      background: url(../../../img/arrow.png) no-repeat center center;
+    }
+
+    #top .wrap .content .visualSelect .zoomArea {
+      display: none;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      z-index: 96;
+      width: 100%;
+      height: 100%;
+      background-position: center center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #000;
+      text-align: center;
+    }
+
+    #top .wrap .content .visualSelect .zoomArea .zoomAreaDeep {
+      display: none;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      z-index: 97;
+      width: 100%;
+      height: 100%;
+      background-position: center center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #000;
+      text-align: center;
+    }
+  </style>
+
+
+<link rel="canonical" href="https://www.honda.co.jp/ownersmanual/webom/jpn/freed/2026/language/ja_JP/main/">
+
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Regular.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Light.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-SBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Bold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontENJP-ExBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Regular.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Light.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-SBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Bold.css">
+
+</head>
+
+<body class="en" id="top" onload="setoutline('ja-JP',true);setbc('ja-JP',true,false);setcontents('ja-JP','./json/index_content.json',true);setpopup('ja-JP','./json/visualindex_content.json',true);setIsNaviOnly(false);">
+  <!-- wrap -->
+  <div class="wrap">
+
+    <div class="start">
+      <p class="startImg"><img src="../../../images/data/img_main.png"/></p>
+	  <p class="startCaption" id="startcaption_01"></p>
+    </div>
+
+    <div class="mainNav" id="mainNavId">
+
+    </div>
+
+    <!-- content -->
+    <div class="content" style="display:none;">
+      <div class="barcode"
+        style="position: absolute; left: 1075px; top: 25px; width: 150px; height: 100px; width: 150px;height: 100px; display: black;">
+        &nbsp;</div>
+      <div class="tutorial"
+        style="position: absolute; left: 1075px; top: 425px; width: 180px; height: 50px; width: 180px;height: 50px; display: black; z-index:-100;">
+        &nbsp;</div>
+      <div class="main">
+
+        <p class="visualTitle">
+          <span id="visualTitleId" class="fitText"></span>
+          <!-- ビジュアルから探す -->
+        </p>
+
+        <div class="visualMenu_line">
+		  <p class="visualMenu_box"></p>
+          <div data-step='1' data-intro='[1/3] &lt;br/&gt;Search from part of car. (When we do not know the name.)'
+            style="width:352px;height:106px;margin-left:18px;margin-top:18px;">
+            <div class="visualMenu">
+              <p data-visual="out_front" style="border: 1px solid #555;"><img src="../../../img/menu_out_front.png" alt="" width="100%"></p>
+              <p data-visual="out_rear" style="display:none; border: 1px solid #555;"><img src="../../../img/menu_out_rear.png" alt=""
+                  width="100%"></p>
+              <p data-visual="yoko_in" style="border: 1px solid #555;"><img src="../../../img/menu_yoko_in.png" alt="" width="100%"></p>
+              <p data-visual="yoko_side" style="display:none; border: 1px solid #555;"><img src="../../../img/menu_yoko_side.png" alt=""
+                  width="100%"></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 一覧目次とキーワード検索 -->
+        <div class="indexkeyword">
+          <p class="indexTitle" style="margin-bottom: 10px;">
+            <span id="indexTitleId" class="fitText"></span>
+          </p>
+          <div data-step='2' data-intro='[2/3] &lt;br/&gt;Search by list of table of contents or free words.'>
+            <ul class="indexMenu">
+            
+              <p><a id="toclist" href=""></a></p>
+              <p><a id="keywaord-search" href=""></a><span><a href="../../../HTMLtemplate/search.html"></a></span></p>
+            </ul>
+          </div>
+        </div>
+
+        <!-- ピックアップ -->
+        <div class="pickup">
+          <p class="pickupTitle">
+            <span id="pickupTitleId" class="fitText"></span>
+          </p>
+          <div data-step='3' data-intro='[3/3] &lt;br/&gt;Link to a page often seen.' style="width:1016px;">
+            <ul class="puMenu">
+              <p><a id="pickup01" href="" ></a><span><a id="pickup01_arrow" href="../../../HTMLtemplate/lamp.html"><img src="../../../img/arrow.png" alt=""></a></span></p>
+              <p><a id="pickup02" href=""></a><span><a id="pickup02_arrow" href="../../../HTMLtemplate/136192090-89154.html"><img src="../../../img/arrow.png" alt=""></a></span></p>
+              <p><a id="pickup03" href=""></a><span><a id="pickup03_arrow" href="../../../HTMLtemplate/106552046-453339.html"><img src="../../../img/arrow.png" alt=""></a></span></p>
+
+           
+            </ul>
+          </div>
+        </div>
+
+        <div class="visualSelect">
+          <!-- <p class="close"><img src="../../../img/close.png" alt="" width="100%"></p> -->
+          <div id="out_front_id" class="visual-cont out_front" data-visual="out_front"
+            style="background:url(../../../img/img_out_front.png)">
+          </div>
+          <div id="out_rear_id" class="visual-cont out_rear" data-visual="out_rear"
+            style="background:url(../../../img/img_out_rear.png)">
+          </div>
+          <div id="yoko_in_id" class="visual-cont yoko_in" data-visual="yoko_in"
+            style="background:url(../../../img/img_yoko_in.png)">
+          </div>
+          <div id="yoko_side_id" class="visual-cont yoko_side" data-visual="yoko_side"
+            style="background:url(../../../img/img_yoko_side.png)">
+          </div>
+          <div class="legende1">
+            <img style="height: 72px;margin-top: -16px;margin-bottom: -18px;margin-right: -10px;" src="../../../images/common/point_off.png" />
+              <span id="legende_text1" class="fitText" style="font-size: 26px;"></span>
+          </div>
+          <div class="legende2">
+            <p class="bluepoint" style="margin-top: 4px;margin-bottom: -18px;"></p>
+              <span id="legende_text2" class="fitText" style="font-size: 26px;"></span>
+          </div>
+          <p class="specnote" style="position: relative;float: right;text-align: right;bottom: 30px;font-size: 25px; margin-right: -80px; margin-top: -12px;" id="_106_5520_46.422576_specnote"></p>
+          <nav class="menu">
+            <div class="icon-animation type-3">
+              <span class="top"></span>
+              <span class="middle"></span>
+              <span class="bottom"></span>
+              <p class="index_word"></p>
+            </div>
+            <p class="btn-back"><a href="#"><img src="../../../img/back.png" width="100%"></a><span></span></p>
+            <p class="btn-home"><a href="index.html"><img src="../../../img/top.png" width="100%"></a><span></span>
+            </p>
+            <p class="btn-search"><a href="../../../HTMLtemplate/search.html"><img src="../../../img/search.png"
+                  width="100%"></a><span></span></p>
+          </nav>
+      </div>
+      <!-- /content -->
+      
+        <p class="btn version" style="position: absolute; left: 1090px; bottom:0px; padding: 2px 15px;">
+          <span id="version_text" class="fitText"></span>
+        </p>
+
+    </div>
+    <!-- /wrap -->
+ 
+  </div>
+
+  </div>
+
+  <!-- js -->
+  <script type="text/javascript" src="../../../javascript/jquery.min.js"></script>
+  <script type="text/javascript" src="../../../javascript/intro_min.js"></script>
+  <script type="text/javascript" src="../../../javascript/common.js"></script>
+  <script type="text/javascript" src="../../../javascript/index.js"></script>
+  <script type="text/javascript" src="../../../javascript/LocalQueue.js"></script>
+  <script type="text/javascript" src="../../../javascript/logging.js"></script>
+
+<script src="/common/beacon/web_beacon.js" type="text/javascript"></script>
+</body>
+
+</html>

@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- OGP TAG -->
+<meta property="og:site_name" content="Honda公式ホームページ">
+<meta property="og:type" content="article">
+<meta property="fb:app_id" content="294779790538626">
+<meta property="og:title" content="internavi｜Honda公式サイト">
+<meta property="og:description" content="インターナビ・リンクは、より安全で快適なカーライフを実現する、Honda四輪車オーナーのための新しいカタチのカーライフサービスです。車載のインターナビユーザーはもちろん、Honda四輪車オーナーであれば、パソコン、携帯電話、スマートフォンでインターナビの機能を無料で使うことができます。">
+<meta property="og:url" content="https://www.honda.co.jp/internavi/">
+<meta property="og:image" content="https://www.honda.co.jp/internavi/images/sns-banner.jpg">
+<!-- /OGP TAG -->
+
+<meta name="keywords" content="インターナビ,internavi,ホンダ純正ナビ,カーナビ,ホンダ">
+<meta name="description" content="インターナビ・リンクは、より安全で快適なカーライフを実現する、Honda四輪車オーナーのための新しいカタチのカーライフサービスです。車載のインターナビユーザーはもちろん、Honda四輪車オーナーであれば、パソコン、携帯電話、スマートフォンでインターナビの機能を無料で使うことができます。">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+
+<title>internavi｜Honda公式サイト</title>
+<link rel="stylesheet" type="text/css" href="common/css/internavi-common.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/internavi-top.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/header.css" media="all">
+<style type="text/css">
+ul.internavi-important-list li sup {line-height: 1;}
+ul.internavi-important-list li:before {line-height: 2.4;}
+.pc {display: block;}
+.sp {display: none;}
+@media screen and (max-width:768px){
+.pc {display: none;}
+.sp {display: block;}
+.display-more-button {text-align: center;width: 94%;margin-right: 3%;margin-bottom: 0px;margin-left: 3%;margin-top: 0px;background-color: #FFFFFF;border: 2px solid #C00;padding: 0px;}
+.display-more-button a{color: #C00;text-decoration: none;font-weight: bold;background-color: #FFF;width: 100%;display: block;padding-top: 10px;padding-bottom: 10px;}
+}
+</style>
+
+<!--[if lt IE 9]>
+<script src="common/js/html5.js"></script>
+<script src="common/js/css3-mediaqueries.js"></script>
+<![endif]-->
+
+
+<link rel="canonical" href="https://www.honda.co.jp/internavi/">
+
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Regular.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Light.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-SBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJP-Bold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontENJP-ExBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Regular.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Light.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-SBold.css">
+<link rel="stylesheet" href="/font/HondaGlobalFontJPUI-Bold.css">
+
+</head>
+
+<body>
+
+<!-- *********************************************************************************
+ #HONDA 共通ヘッダー START
+********************************************************************************** --> 
+<header id="l-auto-header" class="l-auto-header"></header>
+<link href="/auto/common/includes/header/styles/auto-header.css" rel="stylesheet" type="text/css" />
+<script src="/auto/common/includes/header/scripts/auto-header.js"></script>
+<!-- *********************************************************************************
+ /#HONDA 共通ヘッダー END
+********************************************************************************** --> 
+
+<!-- *********************************************************************************
+ インターナビ エリア START
+********************************************************************************** --> 
+<!-- #internavi-contents -->
+<div id="internavi-contents">
+	<header id="internav-header" class="cfx">
+		<div class="internav-logo-box cfx">
+		<h1 class="internav-logo"><a href="/internavi/index.html"><img src="common/images/hd_logo.png" width="271" alt="internavi"></a></h1>
+			<ul class="internav-member-btn">
+				<li><a href="/internavi/htc_log/"><img src="common/images/btn_member02_pc.png" width="228" alt="Honda Total Care会員の方" class="internavi-pc-visible"><img src="common/images/btn_member02_sp.gif" width="89" alt="Honda Total Care会員の方" class="internavi-sp-visible"></a></li>
+				<li class="internavi-sp-menu-btn"><img src="common/images/btn_menu_sp_off.gif" width="89" alt="MENU"></li>
+			</ul><!-- /.internav-member-btn --> 
+		</div>
+    <!-- /.internav-logo-box -->
+    <nav class="internavi-global-menu">
+      <ul class="cfx">
+        <li class="internavi-gmenu01"><a href="about/">インターナビとは</a></li>
+        <li class="internavi-gmenu02"><a href="time/">到着時間が正確</a></li>
+        <li class="internavi-gmenu03"><a href="route/">多彩なルート</a></li>
+        <li class="internavi-gmenu04"><a href="disaster/">防災情報</a></li>
+        <li class="internavi-gmenu05"><a href="linkupfree/">通信費無料</a></li>
+        <li class="internavi-gmenu06"><a href="services/">サービス一覧</a></li>
+        <li class="internavi-gmenu07 internavi-gsubmenu"><span>使い方</span>
+          <ul class="internavi-global-submenu">
+            <li><a href="howto/navi/">車種別の使い方</a></li>
+            <li><a href="howto/smp_pc/">カーナビ以外での使い方</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <!-- /.internavi-global-menu --> 
+  </header>
+  <!-- /#internavi-header -->
+  
+  <main id="internavi-main">
+    <div class="internavi-top-main"> <img src="images/top_img01_pc.jpg" width="1325" alt="" class="internavi-top-main-img"> </div>
+    <ul class="internavi-top-sp-menu">
+      <li class="internavi-top-sp-menu01"><a href="about/"><img src="images/top_sp_menu01.jpg" width="122" alt="インターナビとは"></a></li>
+      <li class="internavi-top-sp-menu02"><a href="time/"><img src="images/top_sp_menu02.jpg" width="122" alt="到着時間が正確"></a></li>
+      <li class="internavi-top-sp-menu03"><a href="route/"><img src="images/top_sp_menu03.jpg" width="122" alt="多彩なルート"></a></li>
+      <li class="internavi-top-sp-menu04"><a href="disaster/"><img src="images/top_sp_menu04.jpg" width="122" alt="防災情報"></a></li>
+      <li class="internavi-top-sp-menu05"><a href="linkupfree/"><img src="images/top_sp_menu05.jpg" width="122" alt="通信費無料"></a></li>
+    </ul>
+    <section class="internavi-news internavi-section">
+      <div class="internavi-news-ttl">
+        <h2 class="cfx"> <img src="images/news_ttl.gif" width="156" alt="News&amp;Topics"> <a href="whatsnew/"><img src="images/btn_news_bn.gif" alt="Back Number"></a> </h2>
+      </div>
+      <div class="ticker" rel="fade">
+        <ul class="internavi-news-list">
+			<li><a href="/internavi/caution_2608/"><time datetime="2026-8-24" class="internavi-news-date">2026/08/24</time><span>CLARITY専用リモート操作アプリ Honda Remote App　サービス提供終了のお知らせ</span></a></li>
+			<li><a href="/internavi/caution_2602/"><time datetime="2026-3-6" class="internavi-news-date">2026/03/06</time><span>Honda Total Care未登録のお客様へのインターナビサービス提供終了のお知らせ</span></a></li>
+			<!--<li><a href="/internavi/caution_2401/"><time datetime="2024-1-24" class="internavi-news-date">2024/01/24</time><span>3Gネットワーク利用のリンクアップフリー・車載通信機　通信サービス終了のお知らせ</span></a></li>-->
+        </ul>
+      </div>
+      <!--/.ticker--> 
+    </section>
+    <!-- /.internavi-section -->
+    
+	<section class="internavi-important internavi-section pc">
+      <div class="internavi-important-ttl">
+        <h2><img src="images/important_ttl.gif" width="156" alt="重要なお知らせ"></h2>
+      </div>
+      <div class="scroll-related-div">
+      <ul class="internavi-important-list">
+		  <li><a href="/internavi/caution_2608/">CLARITY専用リモート操作アプリ Honda Remote App　サービス提供終了のお知らせ</a></li>
+		  <li><a href="/internavi/caution_2602/">Honda Total Care未登録のお客様へのインターナビサービス提供終了のお知らせ</a></li>
+          <li><a href="/internavi/caution_2401/">3Gネットワーク利用のリンクアップフリー・車載通信機　通信サービス終了のお知らせ</a></li>
+      </ul>
+      </div>
+    </section>
+    <!-- /.internavi-section -->
+    <section class="internavi-important internavi-section sp">
+      <div class="internavi-important-ttl">
+        <h2><img src="images/important_ttl.gif" width="156" alt="重要なお知らせ"></h2>
+      </div>
+      <ul class="internavi-important-list sample">
+		  <li><a href="/internavi/caution_2602/">Honda Total Care未登録のお客様へのインターナビサービス提供終了のお知らせ</a></li>
+		  <li><a href="/internavi/caution_2401/">3Gネットワーク利用のリンクアップフリー・車載通信機　通信サービス終了のお知らせ</a></li>
+      </ul>
+    </section>
+    <!-- /.internavi-section -->
+    
+    <ul class="internavi-top-nav">
+      <li><a href="about/"> <img src="images/top_menu01_pc.jpg" width="981" alt="インターナビとは" class="internavi-pc-visible"> <img src="images/top_menu01_sp.jpg" width="640" alt="インターナビとは" class="internavi-sp-visible"> </a></li>
+      <li><a href="time/"> <img src="images/top_menu02_pc.jpg" width="981" alt="到着時間が正確" class="internavi-pc-visible"> <img src="images/top_menu02_sp.jpg" width="640" alt="到着時間が正確" class="internavi-sp-visible"> </a></li>
+      <li><a href="route/"> <img src="images/top_menu03_pc.jpg" width="981" alt="多彩なルート" class="internavi-pc-visible"> <img src="images/top_menu03_sp.jpg" width="640" alt="多彩なルート" class="internavi-sp-visible"> </a></li>
+      <li><a href="disaster/"> <img src="images/top_menu04_pc.jpg" width="981" alt="防災情報" class="internavi-pc-visible"> <img src="images/top_menu04_sp.jpg" width="640" alt="防災情報" class="internavi-sp-visible"> </a></li>
+      <li><a href="linkupfree/"> <img src="images/top_menu05_pc.jpg" width="981" alt="通信費無料" class="internavi-pc-visible"> <img src="images/top_menu05_sp.jpg" width="640" alt="通信費無料" class="internavi-sp-visible"> </a></li>
+    </ul>
+  </main>
+  <!-- /#internavi-main -->
+  
+  <footer id="internavi-footer">
+    <nav id="internavi-foot-nav01">
+      <ul class="cfx">
+        <li class="internavi-pagetop"><a href="#PAGETOP">ページトップへ</a></li>
+      </ul>
+    </nav>
+    <nav id="internavi-foot-nav02">
+	<ul>
+		<li><a href="/navi/versionup/makermodel/inter/"><span>最新地図データ更新情報</span></a></li>
+		<li><a href="/internavi/register/"><span>会員登録方法</span></a></li>
+		<li><a href="/internavi/update/"><span>各種変更手続き</span></a></li>
+		<li><a href="/internavi/withdrawal/"><span>退会手続き</span></a></li>
+		<li><a href="/internavi/inquiry/"><span>お問い合わせ</span></a></li>
+		<li><a href="/internavi/sitemap/"><span>サイトマップ</span></a></li>
+	</ul>
+    </nav>
+  </footer>
+  <!-- /#internavi-footer --> 
+</div>
+<!--/#internavi-contents--> 
+<!-- *********************************************************************************
+ /#インターナビ エリア END
+********************************************************************************** --> 
+
+<script type="text/javascript" src="js/jquery.js" charset="UTF-8"></script>
+<script type="text/javascript" src="common/js/internavi-common.js" charset="UTF-8"></script> 
+<script type="text/javascript" src="js/newsticker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="js3/display-more.js" charset="UTF-8"></script>
+
+<script>
+$(function() {
+    $('.sample').displayMore({
+        itemElement : '> li',
+        showNumber  : 3,
+		openText  : 'もっと見る',
+		closeText  : '閉じる',
+		buttonClass  : 'display-more-button'
+    });
+});
+$(function(){
+  $('.scroll-related-div .internavi-important-list').slimScroll({
+	size: "8px",
+	height: "90px",
+	railVisible: true,
+	railColor: '#C00',
+	railOpacity: 0.2,
+    alwaysVisible: true,
+	color: '#C00'
+  });
+});
+</script>
+
+</div>
+<link charset="UTF-8" rel="stylesheet" href="/layout/footer/202309/assets/css/footer-product.css" type="text/css">
+<footer class="l-footer">
+    <div class="l-footer-main">
+        <div class="l-footer-inner001">
+            <div class="l-footer-sns">
+                <ul class="l-footer-sns__list"></ul>
+                <a href="" rel="noopener" class="l-footer-sns__link"></a>
+            </div>
+            <div class="l-footer-navi"></div>
+            <div class="l-footer-stories">
+                <p class="l-footer-stories__title"><img src="/layout/footer/202309/assets/img/title-hondastories01.png" alt="Honda Stories Hondaのこれからがわかるメディア"></p>
+                <a class="l-footer-stories__article">
+                    <figure class="l-footer-stories-image">
+                        <img src="" alt="" class="l-footer-stories__thumbnail">
+                    </figure>
+                </a>
+                <a class="l-footer-stories__caption"></a>
+            </div>
+        </div>
+    </div>
+    <div class="l-footer-bottom">
+        <div class="l-footer-bottom__inner">
+            <div class="l-footer-subnavi">
+                <ul class="l-footer-subnavi__list">
+                </ul>
+            </div>
+            <div class="l-footer-copy">
+                <small>&copy; Honda Motor Co., Ltd. and its subsidiaries and affiliates. All Rights Reserved.</small>
+            </div>
+        </div>
+    </div>
+    <a href="#" class="l-footer-pagetop"><img src="/layout/footer/202309/assets/img/pagetop.svg" alt="ページトップへ"></a>
+    <script charset="UTF-8" src="/layout/footer/202309/assets/js/footer-products_menu.js"></script>
+    <script charset="UTF-8" src="/layout/footer/202309/assets/js/footer-products.js"></script>
+    <script src="/common/js/jquery/jquery.min.js"></script>
+    <script>
+      // jQuery for Conflict
+      var $jq162 = jQuery;
+    </script>
+    <script>
+      // Footer Link Map for Responsive
+      (function($) {
+        $(document).ready(function(e) {});
+      })($jq162);
+
+      //Clear Global jQuery
+      $jq162.noConflict(true);
+    </script>
+</footer><script src="/common/beacon/web_beacon.js" type="text/javascript"></script>
+</body>
+</html>

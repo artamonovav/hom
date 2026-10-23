@@ -1,0 +1,46 @@
+{
+  "site": {
+    "car": "freed",
+    "year": "2026"
+  },
+  "target": "ru",
+  "provider": "google-web",
+  "generated": "2026-10-23T15:43:02+00:00",
+  "pages": 230,
+  "unique_sources": 4465,
+  "source_chars": 313322,
+  "translated_now": 0,
+  "failed": 1,
+  "cached": 4464,
+  "overrides_applied": 4460,
+  "applied_segments": 5005,
+  "applied_plain": 30,
+  "missing": 0,
+  "fallback_blocks": 0,
+  "menu_translated": false,
+  "menu_json_files": 1,
+  "menu_json_titles": 481,
+  "menu_json_failed": 0,
+  "data_files": {
+    "files": 2,
+    "sources": 95,
+    "translated": 0,
+    "failed": 0,
+    "details": [
+      {
+        "file": "visualindex_content.json",
+        "sources": 95,
+        "translated": 0,
+        "failed": 0,
+        "strings": 108
+      },
+      {
+        "file": "inline.json",
+        "sources": 0,
+        "translated": 0,
+        "failed": 0,
+        "strings": 0
+      }
+    ]
+  }
+}

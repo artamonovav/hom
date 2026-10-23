@@ -1,0 +1,46 @@
+{
+  "site": {
+    "car": "freed",
+    "year": "2023"
+  },
+  "target": "ru",
+  "provider": "google-web",
+  "generated": "2026-10-23T15:42:30+00:00",
+  "pages": 150,
+  "unique_sources": 4731,
+  "source_chars": 301763,
+  "translated_now": 0,
+  "failed": 1,
+  "cached": 4730,
+  "overrides_applied": 4726,
+  "applied_segments": 6108,
+  "applied_plain": 325,
+  "missing": 0,
+  "fallback_blocks": 0,
+  "menu_translated": true,
+  "menu_json_files": 0,
+  "menu_json_titles": 0,
+  "menu_json_failed": 0,
+  "data_files": {
+    "files": 2,
+    "sources": 82,
+    "translated": 0,
+    "failed": 0,
+    "details": [
+      {
+        "file": "appearance.point.js",
+        "sources": 24,
+        "translated": 0,
+        "failed": 0,
+        "strings": 25
+      },
+      {
+        "file": "interior.point.js",
+        "sources": 58,
+        "translated": 0,
+        "failed": 0,
+        "strings": 58
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+@charset "utf-8";
+
+/*==================================
+	警告灯 / 表示灯 tbl
+==================================*/
+table.warning_list{
+	width:100%;
+	border-collapse: collapse;
+	border:none;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+	line-height:150%;
+	font-size:90%;
+	border-spacing: 0px;
+}
+table.warning_list col,
+table.warning_list tr{
+	border:none !important;
+}
+table.warning_list thead th{
+	border-right:1px solid #fff;
+	background:#ddd;
+}
+table.warning_list tr td.K20{
+	background:transparent;
+}
+table.warning_list tr td.K60{
+	padding: 5px 
+}
+table.warning_list tr td.last{
+    background-color:#eee;
+}
+table.warning_list tr td.last div.info_img img{
+    width:60px;
+}
+table.warning_list tr td{
+	vertical-align:top;
+	padding:5px;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+table.warning_list td ul.info_list{
+	padding:0 0 0 20px;
+}
+table.warning_list td div.info_img {
+	margin: 5px 0;
+}
+table.warning_list td div.info_img img{
+	width:95%;
+	display: block;
+	margin:0 auto;
+}
+table.warning_list td:first-child div.info_img img{
+	width:40px !important;
+}
+table.warning_list td sup{
+	white-space:nowrap;
+}
+table.warning_list td br{
+	display: block;
+}
+table.warning_list + div.notes{
+	position:relative;
+	top:-20px;
+	font-size:90%;
+}
+
+table.warning_list col:nth-child(1){width:7%;}
+table.warning_list col:nth-child(2){width:11%;}
+table.warning_list col:nth-child(3){width:28%;}
+table.warning_list col:nth-child(4){width:27%;}
+table.warning_list col:nth-child(5){width:27%;}
+
+
+@media screen and (max-width:479px) {
+
+	table.warning_list{
+		width:100% !important;
+		font-size:100%;
+		margin:0;
+	}
+	table.warning_list thead{
+		display:none;
+	}
+	table.warning_list td{
+		display:block;
+	}
+	table.warning_list colgroup col{
+		display:block;
+		width:100%;
+	}
+	table.warning_list tr{
+		border-top: 1px solid #ccc !important;
+		display:block;
+		padding-top: 20px;
+		padding-bottom: 15px;
+	}
+	table.warning_list:first-of-type tr:first-of-type{
+		border-top: 0 !important;
+	}
+	table.warning_list,
+	table.warning_list td,
+	table.warning_list td.K20,
+	table.warning_list thead th{
+		border:none;
+	}
+	table.warning_list td.K60{
+		width:60px;
+		float:left;
+		margin:0 15px 15px 0;
+		border-radius: 6px;
+	}
+	table.warning_list td.K60 div.info_img {
+		margin: 0;
+	}
+	table.warning_list td.K60 div.info_img img{
+		width:40px !important;
+		padding:10px 0;
+	}
+	table.warning_list td:nth-last-of-type(4){
+		height: 60px;
+		vertical-align: middle;
+		display: table-cell;
+	}
+	table.warning_list td:nth-last-of-type(4) div{
+		font-weight:bold;
+		font-size: 120%;
+		line-height: 130%;
+	}
+	table.warning_list td:nth-last-of-type(4) div br{
+		display:none;
+	}
+	table.warning_list tr td:nth-last-of-type(3):before{
+		content: '点灯/点滅する状況';
+		display:block;
+		font-weight: bold;
+		font-size:110%;
+		font-weight:bold;
+		margin:0 0 5px 0;
+		clear:both;
+	}
+	table.warning_list tr td:nth-last-of-type(2):before{
+		content: '知識';
+		display:block;
+		font-weight: bold;
+		font-size:110%;
+		font-weight:bold;
+		margin:0 0 5px 0;
+	}
+	table.warning_list tr td:last-of-type div.info_img img{
+		width:90%;
+		max-width:300px !important;
+	}
+
+}
